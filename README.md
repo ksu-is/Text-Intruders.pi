@@ -1,4 +1,2 @@
-# teampi3
-Team repository for Derrick, Farha, and Cassey (Team Pi 3)
-We will do a Text intruder alert system
-IT WORKS!
+# Text Intruder Alarm System
+A Raspberry Pi 3 Model B will be used to create an intruder alarm that sends a text message to the owner of a smartphone device with text messaging (SMS) capabilities. 
