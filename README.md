@@ -33,3 +33,7 @@ import RPi.GPIO as GPIO
 - `SUBJECT` : add text message subject line
 - `TEXT` : add text message to alert of intruder
 
+**GPIO Setup**
+- `GPIO.setmode(GPIO.BCM)`: this refers to the pins Broadcam SOC channel
+- `GPIO.setup(4,GPIO.IN)` : identifying pin numbering  
+
