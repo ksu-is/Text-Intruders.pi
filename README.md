@@ -8,3 +8,7 @@ References
 - Raspberry Pi 3 Model B
 - PIR Sensor 
 - Jumper Wires
+
+# Software Components
+- Python IDLE
+- Visual Studio Code 
