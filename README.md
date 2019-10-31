@@ -28,3 +28,8 @@ import RPi.GPIO as GPIO
 - `TO` : add phone number @ email address based on the carrier used
 - `GMAIL_USER` : add gmail account 
 - `PASS` : your account password
+
+**Text Message Content:**
+- `SUBJECT` : add text message subject line
+- `TEXT` : add text message to alert of intruder
+
