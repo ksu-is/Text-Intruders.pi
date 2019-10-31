@@ -24,7 +24,7 @@ import time
 import smtplib
 import RPi.GPIO as GPIO
 ```
-**Carrier and Email Address** 
+**Carrier and Email Address:** 
 - `TO` : add phone number @ email address based on the carrier used
 - `GMAIL_USER` : add gmail account 
 - `PASS` : your account password
