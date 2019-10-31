@@ -39,6 +39,13 @@ import RPi.GPIO as GPIO
 
 **Send Mail Function**
 - `def send_mail()` : takes no parameters
-- Within the `def` function: `print("Sending text")`
-- `server = smtplib.SMTP` : refers to the Mail Transfer Protocol
+  - Within the `def` function: `print("Sending text")`
+  - `server = smtplib.SMTP` : This variable will be used to access a mail transfer protocol to then login into the account
+  - `header` : This variable will be used to format the messages
+  - `msg` : This variable is used as an additional formating to the header
+  - `time.sleep()` : takes 1 argument that refers to the time of when the message is sent
+
+**Motion Sensor Function**
+- `while True` : This loop will be the basis of the motion sensor
+- `GPIO.input(4) == 1: 
 
