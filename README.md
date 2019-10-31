@@ -19,4 +19,8 @@ References
 - Sprint: number@messaging.sprintpcs.com 
 
 # Instructions
+```python
 import time
+import smtplib
+import RPi.GPIO as GPIO
+```
