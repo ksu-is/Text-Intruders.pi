@@ -10,8 +10,8 @@ References
 - Jumper Wires
 
 # Software Components
-- Python (3.7.4) IDLE
-- Visual Studio Code 
+- Python IDLE
+- Visual Studio Code (3.7.4)
 
 # Carrier/Phones Used
 - T-Mobile: number@tmomail.net
