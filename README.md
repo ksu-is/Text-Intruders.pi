@@ -10,5 +10,5 @@ References
 - Jumper Wires
 
 # Software Components
-- Python IDLE
+- Python (3.7.4) IDLE
 - Visual Studio Code 
