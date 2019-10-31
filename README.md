@@ -35,5 +35,10 @@ import RPi.GPIO as GPIO
 
 **GPIO Setup**
 - `GPIO.setmode(GPIO.BCM)`: this refers to the pins Broadcam SOC channel
-- `GPIO.setup(4,GPIO.IN)` : identifying pin numbering  
+- `GPIO.setup(4,GPIO.IN)` : identifying pin numbering
+
+**Send Mail Function**
+- `def send_mail()` : takes no parameters
+- Within the `def` function: `print("Sending text")`
+- `server = smtplib.SMTP` : refers to the Mail Transfer Protocol
 
