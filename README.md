@@ -12,3 +12,11 @@ References
 # Software Components
 - Python (3.7.4) IDLE
 - Visual Studio Code 
+
+# Carrier/Phones Used
+- T-Mobile: number@tmomail.net
+- Virgin Mobile: number@vmobl.com 
+- Sprint: number@messaging.sprintpcs.com 
+
+# Instructions
+import time
