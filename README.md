@@ -3,3 +3,8 @@ A Raspberry Pi 3 Model B will be used to create an intruder alarm that sends a t
 
 References 
 - https://www.hackster.io/gatoninja236/raspberry-pi-texting-intruder-alarm-d0d2a8
+
+# Hardware Components
+- Raspberry Pi 3 Model B
+- PIR Sensor 
+- Jumper Wires
