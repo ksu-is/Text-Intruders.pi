@@ -48,5 +48,6 @@ import RPi.GPIO as GPIO
 
 **Motion Sensor Function**
 - `while True` : This loop will be the basis of the motion sensor
-- `GPIO.input(4) == 1: 
+  - `if GPIO.input(4) == 1` : A message will be sent when the PIR sensor detects somemthing and then go to sleep for 2 minutes 
+  - `else` : PIR sensor will check every 5 seconds to detect if something is near it 
 
