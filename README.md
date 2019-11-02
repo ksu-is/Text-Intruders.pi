@@ -18,7 +18,7 @@ References
 - Virgin Mobile: number@vmobl.com 
 - Sprint: number@messaging.sprintpcs.com 
 
-# Code
+# Code Descriptions
 ```python
 import time
 import smtplib
