@@ -11,7 +11,7 @@ References
 
 # Software Components
 - Python IDLE (on Raspberry Pi)
-- Visual Studio Code (Python 3.7.4)
+- Microsoft Visual Studio Code (Python 3.7.4)
 
 # Carrier/Phones Used
 - T-Mobile: number@tmomail.net
