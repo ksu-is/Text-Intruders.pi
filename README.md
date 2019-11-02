@@ -5,12 +5,12 @@ References
 - https://www.hackster.io/gatoninja236/raspberry-pi-texting-intruder-alarm-d0d2a8
 
 # Hardware Components
-- Raspberry Pi 3 Model B
-- PIR Sensor 
+- Raspberry Pi 3 Model B (or Raspberry Pi 2 Model B) 
+- PIR Motion Sensor 
 - Jumper Wires
 
 # Software Components
-- Python IDLE (for Raspberry Pi)
+- Python IDLE (on Raspberry Pi)
 - Visual Studio Code (Python 3.7.4)
 
 # Carrier/Phones Used
@@ -31,23 +31,23 @@ import RPi.GPIO as GPIO
 
 **Text Message Content:**
 - `SUBJECT` : add text message subject line
-- `TEXT` : add text message to alert of intruder
+- `TEXT` : add text message that will alert the intruder
 
 **GPIO Setup**
-- `GPIO.setmode(GPIO.BCM)`: this refers to the pins Broadcam SOC channel
+- `GPIO.setmode(GPIO.BCM)`: refers to the pins Broadcam SOC channel
 - `GPIO.setup(4,GPIO.IN)` : identifying pin numbering
 
 **Send Mail Function**
 - `def send_mail()` : takes no parameters
 - Within the `def` function: 
   - `print("Sending text")`
-  - `server = smtplib.SMTP` : This variable will be used to access a mail transfer protocol to then login into the account
-  - `header` : This variable will be used to format the messages
-  - `msg` : This variable is used as an additional formating to the header
-  - `time.sleep()` : takes 1 argument that refers to the time of when the message is sent
+  - `server = smtplib.SMTP` : Will access a mail transfer protocol to then login into the account
+  - `header` : Used to format the messages
+  - `msg` : Adds additional formating to the header
+  - `time.sleep()` : Takes 1 argument that refers to the time of when the message is sent
 
 **Motion Sensor Function**
-- `while True` : This loop will be the basis of the motion sensor
-  - `if GPIO.input(4) == 1` : A message will be sent when the PIR sensor detects somemthing and then go to sleep for 2 minutes 
+- `while True` : Acts as the basis for the PIR sensor
+  - `if GPIO.input(4) == 1` : A message will be sent when the PIR sensor detects somemthing and will go to sleep for 2 minutes afterwards 
   - `else` : PIR sensor will check every 5 seconds to detect if something is near it 
 
