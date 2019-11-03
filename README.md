@@ -35,7 +35,7 @@ import RPi.GPIO as GPIO
 
 **GPIO Setup**
 - `GPIO.setmode(GPIO.BCM)`: refers to the pins Broadcam SOC channel
-- `GPIO.setup(4,GPIO.IN)` : identifying pin numbering
+- `GPIO.setup(4,GPIO.IN)` : identifies pin numbering
 
 **Send Mail Function**
 - `def send_mail()` : takes no parameters
@@ -50,4 +50,7 @@ import RPi.GPIO as GPIO
 - `while True` : Acts as the basis for the PIR sensor
   - `if GPIO.input(4) == 1` : A message will be sent when the PIR sensor detects somemthing and will go to sleep for 2 minutes afterwards 
   - `else` : PIR sensor will check every 5 seconds to detect if something is near it 
+  
+
+
 
