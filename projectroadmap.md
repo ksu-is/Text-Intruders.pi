@@ -16,4 +16,6 @@
 1. Create a powerpoint for the project
 2. Submit Project
 
-
+- [x] look into tkinter transformation
+- [x] create flow chart model of initial idea process
+- [x] find github code to support ideas
