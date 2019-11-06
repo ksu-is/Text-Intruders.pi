@@ -4,3 +4,14 @@
 4. Modify existing code
 5. Create a powerpoint for the project
 
+# Coding Phase                                                                               
+
+# Design Phase
+
+
+# Testing Phase
+
+# Final Submission Phase
+1. Submit Project
+
+
