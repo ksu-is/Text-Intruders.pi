@@ -4,8 +4,9 @@
 2. Setting up the Raspberry Pi 3 so that it is functional for the project
 3. Creating a gmail account for email proccessing
 
-# Coding Phase                                                                               
-1. Modify existing code
+# Coding Phase   
+1. Make sure that our Python code is recognized in VS code
+2. Modify existing code 
 
 
 # Testing Phase
