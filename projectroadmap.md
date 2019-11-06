@@ -1,13 +1,14 @@
 
 # Preparation Phase
-- [ ] Create a Flowchart model to retain a better understanding of the way our code would work for our project
+- [ ] Making a Flowchart model to retain a better understanding of the way our code would work for our project
 - [ ] Checking to make sure we have all of our hardware components (Raspberry Pi 3 Model B, Jumper Wires, and PIR Motion Sensor)
 - [ ] Setting up the Raspberry Pi 3 so that it is functional for the project
 - [ ] Creating a gmail account for email proccessing
+- [ ] Deciding on which phone will be used to recieve the warining message
 
 # Coding Phase   
-- [ ] Make sure that our Python code is recognized in VS code
-- [ ] Modify existing code 
+- [ ] Make sure that the Python code is recognized in Microsoft Visual Studio Code
+- [ ] Modify existing code to match our preference 
 
 
 # Testing Phase
