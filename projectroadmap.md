@@ -4,7 +4,7 @@
 - [ ] Checking to make sure we have all of our hardware components (Raspberry Pi 3 Model B, Jumper Wires, and PIR Motion Sensor)
 - [ ] Setting up the Raspberry Pi 3 so that it is functional for the project
 - [ ] Creating a gmail account for email proccessing
-- [ ] Deciding on which phone will be used to recieve the warining message
+- [ ] Deciding on which phone will be used to recieve the warning message
 
 # Coding Phase   
 - [ ] Make sure that the Python code is recognized in Microsoft Visual Studio Code
