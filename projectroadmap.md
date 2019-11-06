@@ -2,4 +2,5 @@
 2. Setting up the Raspberry Pi 3 so that it is functional for the project
 3. Creating a gmail account for email proccessing
 4. Modify existing code
+5. Create a powerpoint for the project
 
