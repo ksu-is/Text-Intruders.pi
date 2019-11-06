@@ -1,8 +1,9 @@
 
 # Preparation Phase
-1. Checking to make sure we have all of our hardware components (Raspberry Pi 3 Model B, Jumper Wires, and PIR Motion Sensor)
-2. Setting up the Raspberry Pi 3 so that it is functional for the project
-3. Creating a gmail account for email proccessing
+1. Create a Flowchart model
+2. Checking to make sure we have all of our hardware components (Raspberry Pi 3 Model B, Jumper Wires, and PIR Motion Sensor)
+3. Setting up the Raspberry Pi 3 so that it is functional for the project
+4. Creating a gmail account for email proccessing
 
 # Coding Phase   
 1. Make sure that our Python code is recognized in VS code
