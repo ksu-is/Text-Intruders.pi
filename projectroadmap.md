@@ -1,6 +1,6 @@
 
 # Preparation Phase
-1. Create a Flowchart model
+1. Create a Flowchart model to retain a better understanding of the way our code would work for our project
 2. Checking to make sure we have all of our hardware components (Raspberry Pi 3 Model B, Jumper Wires, and PIR Motion Sensor)
 3. Setting up the Raspberry Pi 3 so that it is functional for the project
 4. Creating a gmail account for email proccessing
@@ -16,7 +16,4 @@
 1. Create a powerpoint for the project
 2. Submit Project
 
-- [x] look into tkinter transformation
-- [x] create flow chart model of initial idea process
-- [x] find github code to support ideas
 
