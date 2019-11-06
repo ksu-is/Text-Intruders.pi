@@ -19,3 +19,4 @@
 - [x] look into tkinter transformation
 - [x] create flow chart model of initial idea process
 - [x] find github code to support ideas
+- [x] create readme documentation for other users to use this application
