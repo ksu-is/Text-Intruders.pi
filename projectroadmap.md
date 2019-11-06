@@ -5,7 +5,7 @@
 3. Creating a gmail account for email proccessing
 
 # Coding Phase                                                                               
-4. Modify existing code
+1. Modify existing code
 
 
 # Testing Phase
