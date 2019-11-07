@@ -20,7 +20,7 @@
 - [ ] Run the code to make sure it functions correctly - **`Derrick`**
 
 # Final Phase
-- [ ] Run final test 
-- [ ] Evaluate outcome 
-- [ ] Create a powerpoint 
-- [ ] Submit Project
+- [ ] Run final test - **`Cassey, Derrick, Farha`**
+- [ ] Evaluate outcome - **`Cassey, Derrick, Farha`**
+- [ ] Create a powerpoint - **`Cassey, Derrick, Farha`**
+- [ ] Submit Project - **`Farha`**
