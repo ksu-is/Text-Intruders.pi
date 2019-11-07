@@ -5,7 +5,7 @@
 - [x] Create projectroadmap.md file - **`Derrick`**
 - [ ] Make a Flowchart model to retain a better understanding of the way our code would work - **`Farha`**
 - [ ] Check to make sure we have all of our hardware components (Raspberry Pi 3 Model B, Jumper Wires, and PIR Motion Sensor)- **`Cassey`**
-- [ ] Set up the Raspberry Pi 3 so that it is functional 
+- [ ] Set up the Raspberry Pi 3 so that it is functional - **`Derrick`**
 - [ ] Create a gmail account for user login
 - [ ] Decide on which phone will be used to recieve the warning message
 - [ ] Create carrier specific email address that will be able to receive the messages
