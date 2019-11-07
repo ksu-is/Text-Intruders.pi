@@ -16,7 +16,7 @@
 - [ ] Import modified code into Github repository - **`Derrick`**
 
 # Testing Phase
-- [ ] Check that all hardware components work
+- [ ] Check that all hardware components work - **`Cassey`**
 - [ ] Run the code to make sure it functions correctly
 
 # Final Phase
