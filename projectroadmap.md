@@ -9,6 +9,7 @@
 # Coding Phase   
 - [ ] Make sure that the Python code is recognized in Microsoft Visual Studio Code
 - [ ] Modify existing code to match our preference 
+- [ ] Import modified code to Github
 
 
 # Testing Phase
