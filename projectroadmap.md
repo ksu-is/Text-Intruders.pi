@@ -13,7 +13,7 @@
 # Coding Phase   
 - [ ] Make sure that the Python code is recognized in Python IDLE (on a Raspberry Pi) - **`Cassey, Derrick, Farha`**
 - [ ] Modify existing code to match our preference - **`Cassey, Derrick, Farha`**
-- [ ] Import modified code into Github repository - 
+- [ ] Import modified code into Github repository - **`Derrick`**
 
 # Testing Phase
 - [ ] Check that all hardware components work
