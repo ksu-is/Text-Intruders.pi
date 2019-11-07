@@ -1,7 +1,7 @@
 
 # Preparation Phase
-- [x] Create a ReadMe - Derrick
-- 
+- [x] Create a ReadMe - ``Derrick``
+- [ ] 
 - [ ] Make a Flowchart model to retain a better understanding of the way our code would work
 - [ ] Check to make sure we have all of our hardware components (Raspberry Pi 3 Model B, Jumper Wires, and PIR Motion Sensor)
 - [ ] Set up the Raspberry Pi 3 so that it is functional 
