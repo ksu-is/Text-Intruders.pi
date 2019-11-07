@@ -17,7 +17,7 @@
 
 # Testing Phase
 - [ ] Check that all hardware components work - **`Cassey`**
-- [ ] Run the code to make sure it functions correctly
+- [ ] Run the code to make sure it functions correctly - **`Derrick`**
 
 # Final Phase
 - [ ] Run final test 
