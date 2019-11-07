@@ -11,9 +11,9 @@
 - [ ] Create carrier specific email address that will be able to receive the messages - **`Farha`**
 
 # Coding Phase   
-- [ ] Make sure that the Python code is recognized in Python IDLE (on a Raspberry Pi)
-- [ ] Modify existing code to match our preference 
-- [ ] Import modified code into Github repository
+- [ ] Make sure that the Python code is recognized in Python IDLE (on a Raspberry Pi) - **`Cassey, Derrick, Farha`**
+- [ ] Modify existing code to match our preference - **`Cassey, Derrick, Farha`**
+- [ ] Import modified code into Github repository - 
 
 # Testing Phase
 - [ ] Check that all hardware components work
