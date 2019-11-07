@@ -3,7 +3,7 @@
 - [x] Create repository - `Derrick`
 - [x] Create readme file - `Derrick`
 - [x] Create projectroadmap.md file - `Derrick`
-- [ ] Make a Flowchart model to retain a better understanding of the way our code would work - **Farha**
+- [ ] Make a Flowchart model to retain a better understanding of the way our code would work - **`Farha`**
 - [ ] Check to make sure we have all of our hardware components (Raspberry Pi 3 Model B, Jumper Wires, and PIR Motion Sensor)
 - [ ] Set up the Raspberry Pi 3 so that it is functional 
 - [ ] Create a gmail account for user login
