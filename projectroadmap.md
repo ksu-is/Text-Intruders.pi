@@ -7,8 +7,8 @@
 - [ ] Check to make sure we have all of our hardware components (Raspberry Pi 3 Model B, Jumper Wires, and PIR Motion Sensor)- **`Cassey`**
 - [ ] Set up the Raspberry Pi 3 so that it is functional - **`Derrick`**
 - [ ] Create a gmail account for user login - **`Cassey`**
-- [ ] Decide on which phone will be used to recieve the warning message - **`Farha`**
-- [ ] Create carrier specific email address that will be able to receive the messages - **`Farha`**
+- [ ] Decide on which phone will be used to receive the warning message - **`Farha`**
+- [ ] Create a carrier specific email address that will be able to receive the warning message - **`Farha`**
 
 # Coding Phase   
 - [ ] Make sure that the Python code is recognized in Python IDLE (on a Raspberry Pi) - **`Cassey, Derrick, Farha`**
@@ -22,5 +22,5 @@
 # Final Phase
 - [ ] Run final test - **`Cassey, Derrick, Farha`**
 - [ ] Evaluate outcome - **`Cassey, Derrick, Farha`**
-- [ ] Create a powerpoint - **`Cassey, Derrick, Farha`**
+- [ ] Create a powerpoint for presentation - **`Cassey, Derrick, Farha`**
 - [ ] Submit Project - **`Farha`**
