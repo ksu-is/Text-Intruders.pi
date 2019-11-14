@@ -27,8 +27,10 @@ def send_mail(): #the texting portion
     print ("Text sent")
 
 while True:
-    if GPIO.input(4)==1: #trigger if sensor has detected something
+    if GPIO.input(4)==1: 
+        print ("trigger if sensor has detected something")
         send_mail()
         time.sleep(60*2) #Sleep for 2 minutes
     else:
+        print ("waiting for 5 seconds)
         time.sleep(5) #check every 5 seconds
