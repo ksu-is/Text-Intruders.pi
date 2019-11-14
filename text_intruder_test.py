@@ -13,18 +13,18 @@ GPIO.setmode(GPIO.BCM)
 GPIO.setup(4,GPIO.IN)
 
 def send_mail(): #the texting portion
-    print "Sending text"
+    print ("Sending text")
     server = smtplib.SMTP('smtp.gmail.com:587')
     server.starttls()
     server.login(GMAIL_USER,PASS)
     header = 'To: ' + TO + '\n' + 'From: ' + GMAIL_USER
     header = header + '\n' + 'Subject: ' + SUBJECT + '\n'
-    print header
+    print (header)
     msg = header + '\n' + TEXT + '\n\n'
     server.sendmail(GMAIL_USER,TO,msg)
     server.quit()
     time.sleep(1)
-    print "Text sent"
+    print ("Text sent")
 
 while True:
     if GPIO.input(4)==1: #trigger if sensor has detected something
