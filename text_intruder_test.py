@@ -2,7 +2,7 @@ import time
 import smtplib
 import RPi.GPIO as GPIO
 
-TO= "your phone # as a carrier email address: 'phone#@txt.att.net' for \ example" #all of the credentials
+TO= "6788875894@tmomail.com" #all of the credentials
 GMAIL_USER="CDF3.py@gmail.com"
 PASS= 'thecoolestpeople123'
 
