@@ -3,8 +3,8 @@ import smtplib
 import RPi.GPIO as GPIO
 
 TO= "your phone # as a carrier email address: 'phone#@txt.att.net' for \ example" #all of the credentials
-GMAIL_USER="your GMAIL account email address"
-PASS= 'your account password'
+GMAIL_USER="CDF3.py@gmail.com"
+PASS= 'thecoolestpeople123'
 
 SUBJECT = 'Alert!'
 TEXT = 'Your Raspberry Pi detected an intruder!'
