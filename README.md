@@ -1,16 +1,16 @@
 # Text Intruder Alarm System
-A Raspberry Pi 3 Model B will be used to create an intruder alarm that sends a text message warning to the owner of a smartphone device with text messaging (SMS) capabilities. If you ever have trouble with a friend or relative checking your phone when you are not around, this will be helpful to know whether they can be trusted. This project can be done by anyone of any skill level if you are interested in trying it out.  
+A Raspberry Pi 3 Model B+ will be used to create an intruder alarm that sends a text message warning to the owner of a smartphone device with text messaging (SMS) capabilities. If you ever have trouble with a friend or relative checking your phone when you are not around, this will be helpful to know whether they can be trusted. This project can be done by anyone of any skill level if you are interested in trying it out.  
 
 References 
 - https://www.hackster.io/gatoninja236/raspberry-pi-texting-intruder-alarm-d0d2a8
 
 # Hardware Components
-- Raspberry Pi 3 Model B (or Raspberry Pi 2 Model B) 
+- CanaKit Raspberry Pi 3 Model B+ 
 - PIR Motion Sensor 
 - Jumper Wires
 
 # Software Components
-- Python IDLE (on Raspberry Pi)
+- Thony Python (on Raspberry Pi)
 - Microsoft Visual Studio Code (Python 3.7.4)
 
 # Carrier/Phones Used
